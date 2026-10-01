@@ -5,37 +5,47 @@
 # Brandon Stensby
 ### Architect of Augmented Pipeline Systems (APS) • Logic Path Flow Engineering
 
-<img src="assets/lcars_pipeline.svg" alt="LCARS System Architecture" width="100%" style="margin-top: 15px; margin-bottom: 10px;" />
+<img src="assets/lcars_pipeline.svg" alt="LCARS System Architecture - Pathway in Development" width="100%" style="margin-top: 15px; margin-bottom: 10px;" />
 
 </div>
 
 ---
 
-### System Architecture :: L.C.A.R.S.
-> **L.C.A.R.S.** — **L**ogic **C**ondensation & **A**utonomous **R**untime **S**equencing
-
-An augmented pipeline architecture fusing deterministic cybernetic control loops with autonomous intelligence:
+### Pathway to L.C.A.R.S. Architecture `[IN DEVELOPMENT]`
+> **L.C.A.R.S.** — **L**ogic **C**ondensation & **A**utonomous **R**untime **S**equencing  
+> *Pioneering closed-loop cybernetic feedback and deterministic micro-architecture.*
 
 ```text
-┌───────┐      ┌────────┐      ┌────────┐      ┌───────┐
-│  LLM  │ ───> │  CMPS  │ ───> │  SAPO  │ ───> │  DVE  │ ───┐ (Logic Gate)
-└───────┘      └────────┘      └────────┘      └───────┘   │
-    ▲                                                      │
-    │              [ CLR: Cybernetic Loop Routing ]        │ (Feedback / Healing)
-    └──────────────────────────────────────────────────────┤
-                                                           ▼ (100% Verified)
-                                                       ┌───────┐
-                                                       │  HPR  │
-                                                       └───────┘
+               ┌────────────────────────────────────────────────────────┐
+               │    ROADMAP: PATHWAY TO L.C.A.R.S. [IN DEVELOPMENT]     │
+               └────────────────────────────────────────────────────────┘
+
+     ( Cloud )               ┌────────┐      ┌────────┐      ┌────────┐
+     (  LLM  ) ────────────> │  CMPS  │ ───> │  SAPO  │ ───> │  DVE   │ ───┐ [PASS]
+     ( Core  )               └────────┘      └────────┘      └────────┘   │
+         ▲                                     ======                     │
+         │                                    [OUTPUT]                    ▼
+         │                                                            ┌────────┐
+         │             [ CLR: Cybernetic Loop Reflexion ]             │  HPR   │
+         └────────────────────────────────────────────────────────────┤ Release│
+                                                                      └────────┘
 ```
 
-#### Telemetry & Sub-System Matrix
-- **LLM** — **L**arge-scale **L**ogic **M**odel *(Cognitive Core)*
-- **CMPS** — **C**ondensed **M**achine **P**ipeline **S**equencing *(Zero-Bloat Logic Condenser)*
-- **SAPO** — **S**equenced **A**ugmented **P**ipeline **O**utput *(Structured Flow Dispatch)*
-- **DVE** — **D**eterministic **V**erification **E**ngine *(Hermetic Test & Logic Gates)*
-- **CLR** — **C**ybernetic **L**oop **R**outing *(Closed-Loop Autonomous Reflexion)*
-- **HPR** — **H**ermetic **P**roduction **R**elease *(Cold-Execution Zero-Defect Delivery)*
+---
+
+### Sub-System Acronym Directory
+
+| Acronym | System Classification | Operational Role |
+| :--- | :--- | :--- |
+| **L.C.A.R.S.** | **L**ogic **C**ondensation & **A**utonomous **R**untime **S**equencing | **Master Roadmap Goal** — Unified cybernetic operating framework *(In Development)*. |
+| **LLM** | **L**arge-scale **L**ogic **M**odel | **Cloud Cognitive Core** — Intent formulation & macro-reasoning. |
+| **CMPS** | **C**ondensed **M**achine **P**ipeline **S**equencing | **Local Silicon Sequencer** — Micro-instruction condensation & zero-bloat logic compaction. |
+| **SAPO** | **S**equenced **A**ugmented **P**ipeline **O**utput | **Structured Local Pipeline Output** — Deterministic subroutine execution. |
+| **DVE** | **D**eterministic **V**erification **E**ngine | **Local Gate Matrix** — Hermetic testing, static analysis & pre-commit gates. |
+| **CLR** | **C**ybernetic **L**oop **R**eflexion | **Closed-Loop Feedback** — Self-healing failure telemetry routed back to the cognitive core. |
+| **HPR** | **H**ermetic **P**roduction **R**elease | **Final Release Node** — Zero-defect, cold-execution production deployment. |
+
+---
 
 > [!NOTE]
 > All systems and transmissions are AI-assisted via Augmented Pipeline Systems (APS).
